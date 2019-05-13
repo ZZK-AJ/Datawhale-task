@@ -12,3 +12,4 @@ javascripts/bundles
 stylesheets/bundles
 
 *.csv
+*.DS_Store
